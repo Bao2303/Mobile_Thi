@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_products_staff"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="Sản phẩm"/>
+    <item
+        android:id="@+id/navigation_orders_staff"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Đơn hàng"/>
+    <item
+        android:id="@+id/navigation_logout_staff"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="Đăng xuất"/>
+</menu>
